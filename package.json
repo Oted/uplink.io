@@ -1,0 +1,23 @@
+{
+  "name": "uplink.io",
+  "version": "0.0.0",
+  "description": "uplink.io =========",
+  "main": "index.js",
+  "dependencies": {
+    "node-rtmpapi": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oted/uplink.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oted/uplink.io/issues"
+  },
+  "homepage": "https://github.com/Oted/uplink.io"
+}
